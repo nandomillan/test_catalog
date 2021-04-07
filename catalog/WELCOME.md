@@ -5,6 +5,8 @@ plain: true
 
 Hi!
 
+First test of your new Catalog.
+
 Welcome to your freshly set up Catalog. To get started immediately, check out the `catalog/` directory (or wherever you've set it up).
 
 - `WELCOME.md`: This Markdown document
