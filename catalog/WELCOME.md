@@ -2,7 +2,6 @@
 src: catalog_logo.svg
 plain: true
 ```
-Test
 
 Hi!
 
